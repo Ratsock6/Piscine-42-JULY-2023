@@ -1,5 +1,23 @@
-# Piscine-42-JULY-2023
-My piscine 42 and help for your Piscine
+# Aide pour faire la votre piscine depuis chez vous
+Ma piscine a 42
+
+**GRADEME »** ([Clique ici](https://grademe.fr/))
+
+**Description »** Pemet de faire tester des exercices d'exam durant la piscine.
+
+**Mini-Moulienette »** ([Clique ici](https://github.com/khairulhaaziq/mini-moulinette))
+**Description »** Si vous souhaitez refaire les exercices de 42, la Mini-Moulinette vous sera tres utile, elle permet de verifier si vos exercices sont bon ou pas, si vos exercices ne passent pas a la Mini-Moulinette, soyez sur qu'elle ne passera pas a la Moulinette.
+
+**Norminette (OFFICIEL) »** ([Clique ici](https://github.com/42School/norminette))
+**Description »** La Mini-Moulienette ne permet pas de verifier les normes. Il vous faudrat donc la Normienette qui est celle officiel a 42. Elle en public sur Github, et a besoin de Python.
+
+**42 Header »** ([Clique ici](https://github.com/42Paris/42header))
+**Description »** Pour la norminette il est important d'avoir un header. Sinon elle vous mettera toujours un probleme. Elle marche uniquement sur VIM et NANO (il me semble).
+
+-------------------------------------------------------------------------------------------------
+
+# 42-POOL
+Ma piscine a 42
 
 [![aallou-v's 42 stats](https://badge42.vercel.app/api/v2/clkit35uv000608l7iaajx9au/stats?cursusId=9&coalitionId=undefined)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
